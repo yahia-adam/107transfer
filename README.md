@@ -6,6 +6,10 @@
 
 ![image](https://user-images.githubusercontent.com/91891487/182251377-606a7695-19e4-4bf1-84ce-06392639b25a.png)
 
+<h2> Instalation </h2>
+
+      git clone git@github.com:Yahia-Abdchafee-ADAM/107transfer.git 
+  
 <h2> Usage </h2>
 
 ![image](https://user-images.githubusercontent.com/91891487/182251443-0971d773-f1cc-461c-8384-27e769d3b80d.png)
